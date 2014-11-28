@@ -6,6 +6,12 @@
 //  Copyright (c) 2014年 JNYJ. All rights reserved.
 //
 
+/*
+IOS 7.1, Regular width constraints on universal storyboard ignored if Target device family set to iPad
+https://stackoverflow.com/questions/26913843/ios-7-1-regular-width-constraints-on-universal-storyboard-ignored-if-target-dev
+
+
+*/
 import UIKit
 
 class ViewController: UIViewController {
